@@ -1,5 +1,3 @@
-## gtzan.keras
-
 >  Music Genre Recommendation system using Convolutional Neural Networks. Implemented in Keras
 
 ### Dataset
